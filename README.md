@@ -3,6 +3,6 @@
 
 <h4>Contact</h4>
 <ul>
-<li>[bharathi2203.github.io](https://bharathi2203.github.io/) </li>
-<li>[Linkedin](https://www.linkedin.com/in/b-sridhar) </li>
+<li><a href="https://bharathi2203.github.io/">bharathi2203.github.io</a> </li>
+<li><a href="https://www.linkedin.com/in/b-sridhar">Linkedin</a> </li>
 </ul>
