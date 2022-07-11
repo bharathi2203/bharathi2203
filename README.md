@@ -1,5 +1,5 @@
-<h3 align="center">Hi there! I'm Bharathi</h3>
-<p align="center">A sophomore at CMU majoring in Electrical and Computer Engineering. </p>
+<h3 align="center">Hi there! I'm Bharathi!</h3>
+<p align="center">I'm a sophomore at CMU majoring in Electrical and Computer Engineering. </p>
 
 <h4>Contact</h4>
 <ul>
