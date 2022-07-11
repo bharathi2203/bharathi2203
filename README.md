@@ -5,5 +5,5 @@
 <ul>
   <li><a href="mailto:bsridha2@andrew.cmu.edu">Email</a></li>
   <li><a href="https://www.linkedin.com/in/b-sridhar/">Linkedin</a></li>
-  <li><a href="https://github.com/bharathi2203">Github</a></li>
+  <li><a href="https://bharathi2203.github.io/">bharathi2203.github.io</a></li>
 </ul>
